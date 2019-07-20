@@ -1,4 +1,6 @@
-const person = {
-    name: 'Sadique',
-    skill: 'jack-of-all'
+export const clean = () =>{
+    console.log("its clean");
 };
+
+export const baseData = 10;
+
